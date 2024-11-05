@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permis_de_Construction", "Permis_de_Construction\Permis_de_Construction.csproj", "{8F8E6A34-1267-4776-B398-6CD045A47158}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Permis", "Permis\Permis.vdproj", "{7EB6F360-BB92-4FEF-8155-E3CEB7057CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F8E6A34-1267-4776-B398-6CD045A47158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F8E6A34-1267-4776-B398-6CD045A47158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F8E6A34-1267-4776-B398-6CD045A47158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F8E6A34-1267-4776-B398-6CD045A47158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB6F360-BB92-4FEF-8155-E3CEB7057CB7}.Debug|Any CPU.ActiveCfg = Debug
+		{7EB6F360-BB92-4FEF-8155-E3CEB7057CB7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A411C2-32C5-445C-922A-B43E33A176B9}
+	EndGlobalSection
+EndGlobal
